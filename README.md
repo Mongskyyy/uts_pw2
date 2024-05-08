@@ -1,4 +1,4 @@
-# ADAFlorist Belanja Bibit Tanaman
+# ADAFlorist - Belanja Bibit Tanaman
 
 ![img](img/dashboard-awal.png)
 
@@ -83,8 +83,8 @@ Berikut adalah beberapa poin penting tambahan dari website ADAFlorist:
 - ADAFlorist menawarkan berbagai macam harga untuk buket bunga.
 - ADAFlorist menawarkan berbagai macam pilihan metode pembayaran.
 
-## Other
+## Lainnya
 
-### Link Demo Website [http://poceteam.my.id/]
+### Link Demo Website http://poceteam.my.id/
 
-### Link Demo YouTube [https://youtu.be/mE3qMa13vNs]
+### Link Demo YouTube https://youtu.be/mE3qMa13vNs
