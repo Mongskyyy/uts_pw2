@@ -85,6 +85,14 @@ Berikut adalah beberapa poin penting tambahan dari website ADAFlorist:
 
 ## Lainnya
 
-### Link Demo Website http://poceteam.my.id/
+### Link Demo Website
 
-### Link Demo YouTube https://youtu.be/mE3qMa13vNs
+![href="http://poceteam.my.id/"img](img/iw.png)
+
+### Link Demo YouTube
+
+![href="https://youtu.be/mE3qMa13vNs"img](img/yt.png)
+
+### Laporan PDF
+
+![href="https://drive.google.com/file/d/1Nez7s6CZZKpwjqPIjntb5iHX3zfh29i-/view?usp=drive_link"img](img/gd.png)
