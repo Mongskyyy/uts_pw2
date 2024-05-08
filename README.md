@@ -93,6 +93,6 @@ Berikut adalah beberapa poin penting tambahan dari website ADAFlorist:
 
 <a href="https://youtu.be/mE3qMa13vNs">![img](img/yt.png)</a>
 
-### Laporan PDF
+### Laporan Portable Document Format
 
 <a href="https://drive.google.com/file/d/1Nez7s6CZZKpwjqPIjntb5iHX3zfh29i-/view?usp=drive_link">![img](img/gd.png)</a>
